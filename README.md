@@ -1,4 +1,4 @@
-# Summary:
+## Build ListView with Custom Adapter in Kotlin
 ### 1. Add listview
 ```java
 var listView: ListView? = null
