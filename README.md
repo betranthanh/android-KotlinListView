@@ -1,4 +1,8 @@
 ## Build ListView with Custom Adapter in Kotlin
+
+## Video step by step
+[![Watch the video](http://i.imgur.com/QBxc8b3l.png)](https://goo.gl/9ipBif)
+
 ### 1. Add listview
 ```java
 var listView: ListView? = null
@@ -122,9 +126,6 @@ fun generateData(): ArrayList<UserDto> {
     return result
 }
 ```
-
-## Video follow above steps
-[![Watch the video](http://i.imgur.com/QBxc8b3l.png)](https://goo.gl/9ipBif)
 
 ## Contact
 Drop me an email if you want discuss anything further. [Email](betranthanh@gmail.com)
