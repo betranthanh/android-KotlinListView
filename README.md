@@ -1,7 +1,7 @@
 ## Build ListView with Custom Adapter in Kotlin
 
 ## Video step by step
-[![Watch the video](http://i.imgur.com/QBxc8b3l.png)](https://goo.gl/9ipBif)
+[![Watch the video](http://i.imgur.com/P5Q7OBr.png)](https://goo.gl/9ipBif)
 
 ### 1. Add listview
 ```java
